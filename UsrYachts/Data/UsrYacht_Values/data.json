@@ -1,0 +1,289 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "5b090a1e-6c29-4ff8-8b7b-ed00a861bc07"
+        },
+        {
+          "SchemaColumnUId": "0f4130cd-3a5c-c4b7-dd3f-3338a8a0549a",
+          "Value": "199a493b-ac55-4944-aece-0a4c1ea8da2f",
+          "DisplayValue": "Creatio ALM Integration"
+        },
+        {
+          "SchemaColumnUId": "27633a6e-88e4-a58f-699f-9b8518528959",
+          "Value": "694f71df-a024-4cb8-9200-bae7711b767e",
+          "DisplayValue": "2. Sailling yacht"
+        },
+        {
+          "SchemaColumnUId": "2a39ca45-cd06-e097-722a-703d90184d96",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3d038d10-85bb-8ce4-9efa-13e0366a0abf",
+          "Value": 700.00
+        },
+        {
+          "SchemaColumnUId": "53b8e350-44c0-ee22-f8f8-339efe874c9e",
+          "Value": "test"
+        },
+        {
+          "SchemaColumnUId": "6d9934f3-3ae9-37b8-43b0-eea904b5ef7d",
+          "Value": 4
+        },
+        {
+          "SchemaColumnUId": "7879c5a1-0f87-de6a-1b6d-6fb0f0b242f3",
+          "Value": "6d88991d-0ca6-4d22-86e5-c0f642a11743",
+          "DisplayValue": "1. Operational"
+        },
+        {
+          "SchemaColumnUId": "958b7181-2a2f-18fc-88cb-24529c5e3403",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "a55f96b3-200e-ff9e-3f0f-201ecd730090",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "cfbbd9e3-7587-4b96-9316-90804ad86d10",
+          "Value": "Ocean Glory"
+        },
+        {
+          "SchemaColumnUId": "db0b79a4-32c1-8d42-38e9-b2f4968d06f9",
+          "Value": "null",
+          "DisplayValue": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b47f3de5-d8af-44fb-b02e-91b5a9932b14"
+        },
+        {
+          "SchemaColumnUId": "0f4130cd-3a5c-c4b7-dd3f-3338a8a0549a",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "27633a6e-88e4-a58f-699f-9b8518528959",
+          "Value": "ab5d47ec-ed37-4f51-a6c4-73cdd9c44973",
+          "DisplayValue": "3. Steam engine"
+        },
+        {
+          "SchemaColumnUId": "2a39ca45-cd06-e097-722a-703d90184d96",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3d038d10-85bb-8ce4-9efa-13e0366a0abf",
+          "Value": 26000.00
+        },
+        {
+          "SchemaColumnUId": "53b8e350-44c0-ee22-f8f8-339efe874c9e",
+          "Value": "sunken"
+        },
+        {
+          "SchemaColumnUId": "6d9934f3-3ae9-37b8-43b0-eea904b5ef7d",
+          "Value": 2700
+        },
+        {
+          "SchemaColumnUId": "7879c5a1-0f87-de6a-1b6d-6fb0f0b242f3",
+          "Value": "ed0d93f2-40f3-43a6-8274-50a369248e67",
+          "DisplayValue": "3. Out of order"
+        },
+        {
+          "SchemaColumnUId": "958b7181-2a2f-18fc-88cb-24529c5e3403",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "a55f96b3-200e-ff9e-3f0f-201ecd730090",
+          "Value": "Y-07"
+        },
+        {
+          "SchemaColumnUId": "cfbbd9e3-7587-4b96-9316-90804ad86d10",
+          "Value": "Titanic 1912"
+        },
+        {
+          "SchemaColumnUId": "db0b79a4-32c1-8d42-38e9-b2f4968d06f9",
+          "Value": "null",
+          "DisplayValue": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b75d0b2d-fa8e-4e74-b0f7-6b476e79cc4b"
+        },
+        {
+          "SchemaColumnUId": "0f4130cd-3a5c-c4b7-dd3f-3338a8a0549a",
+          "Value": "d5e43975-425a-47a3-bc7b-78f617832e61",
+          "DisplayValue": "Creatio.ai"
+        },
+        {
+          "SchemaColumnUId": "27633a6e-88e4-a58f-699f-9b8518528959",
+          "Value": "5f2f7355-cbc4-49d1-99e4-5b5817c5d7fd",
+          "DisplayValue": "1. Power yacht "
+        },
+        {
+          "SchemaColumnUId": "2a39ca45-cd06-e097-722a-703d90184d96",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3d038d10-85bb-8ce4-9efa-13e0366a0abf",
+          "Value": 300.00
+        },
+        {
+          "SchemaColumnUId": "53b8e350-44c0-ee22-f8f8-339efe874c9e",
+          "Value": "fast boat"
+        },
+        {
+          "SchemaColumnUId": "6d9934f3-3ae9-37b8-43b0-eea904b5ef7d",
+          "Value": 7
+        },
+        {
+          "SchemaColumnUId": "7879c5a1-0f87-de6a-1b6d-6fb0f0b242f3",
+          "Value": "6d88991d-0ca6-4d22-86e5-c0f642a11743",
+          "DisplayValue": "1. Operational"
+        },
+        {
+          "SchemaColumnUId": "958b7181-2a2f-18fc-88cb-24529c5e3403",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "a55f96b3-200e-ff9e-3f0f-201ecd730090",
+          "Value": "Y-01"
+        },
+        {
+          "SchemaColumnUId": "cfbbd9e3-7587-4b96-9316-90804ad86d10",
+          "Value": "Sea Turtle"
+        },
+        {
+          "SchemaColumnUId": "db0b79a4-32c1-8d42-38e9-b2f4968d06f9",
+          "Value": "null",
+          "DisplayValue": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c89e8853-0aff-45b4-ba27-c13226ff082b"
+        },
+        {
+          "SchemaColumnUId": "0f4130cd-3a5c-c4b7-dd3f-3338a8a0549a",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "27633a6e-88e4-a58f-699f-9b8518528959",
+          "Value": "694f71df-a024-4cb8-9200-bae7711b767e",
+          "DisplayValue": "2. Sailling yacht"
+        },
+        {
+          "SchemaColumnUId": "2a39ca45-cd06-e097-722a-703d90184d96",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3d038d10-85bb-8ce4-9efa-13e0366a0abf",
+          "Value": 1200.00
+        },
+        {
+          "SchemaColumnUId": "53b8e350-44c0-ee22-f8f8-339efe874c9e",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "6d9934f3-3ae9-37b8-43b0-eea904b5ef7d",
+          "Value": 5
+        },
+        {
+          "SchemaColumnUId": "7879c5a1-0f87-de6a-1b6d-6fb0f0b242f3",
+          "Value": "6d88991d-0ca6-4d22-86e5-c0f642a11743",
+          "DisplayValue": "1. Operational"
+        },
+        {
+          "SchemaColumnUId": "958b7181-2a2f-18fc-88cb-24529c5e3403",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "a55f96b3-200e-ff9e-3f0f-201ecd730090",
+          "Value": "Y-02"
+        },
+        {
+          "SchemaColumnUId": "cfbbd9e3-7587-4b96-9316-90804ad86d10",
+          "Value": "Mangust Three"
+        },
+        {
+          "SchemaColumnUId": "db0b79a4-32c1-8d42-38e9-b2f4968d06f9",
+          "Value": "null",
+          "DisplayValue": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e026c7f5-749f-4fab-831f-a3064b57283c"
+        },
+        {
+          "SchemaColumnUId": "0f4130cd-3a5c-c4b7-dd3f-3338a8a0549a",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "27633a6e-88e4-a58f-699f-9b8518528959",
+          "Value": "5f2f7355-cbc4-49d1-99e4-5b5817c5d7fd",
+          "DisplayValue": "1. Power yacht "
+        },
+        {
+          "SchemaColumnUId": "2a39ca45-cd06-e097-722a-703d90184d96",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "3d038d10-85bb-8ce4-9efa-13e0366a0abf",
+          "Value": 777.00
+        },
+        {
+          "SchemaColumnUId": "53b8e350-44c0-ee22-f8f8-339efe874c9e",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "6d9934f3-3ae9-37b8-43b0-eea904b5ef7d",
+          "Value": 2
+        },
+        {
+          "SchemaColumnUId": "7879c5a1-0f87-de6a-1b6d-6fb0f0b242f3",
+          "Value": "6d88991d-0ca6-4d22-86e5-c0f642a11743",
+          "DisplayValue": "1. Operational"
+        },
+        {
+          "SchemaColumnUId": "958b7181-2a2f-18fc-88cb-24529c5e3403",
+          "Value": 0.00
+        },
+        {
+          "SchemaColumnUId": "a55f96b3-200e-ff9e-3f0f-201ecd730090",
+          "Value": "Y-06"
+        },
+        {
+          "SchemaColumnUId": "cfbbd9e3-7587-4b96-9316-90804ad86d10",
+          "Value": "Gaps in number example"
+        },
+        {
+          "SchemaColumnUId": "db0b79a4-32c1-8d42-38e9-b2f4968d06f9",
+          "Value": "null",
+          "DisplayValue": ""
+        }
+      ]
+    }
+  ]
+}

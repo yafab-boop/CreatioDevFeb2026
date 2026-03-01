@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "a7317a34-91ab-ea28-1aed-ce4dd013278b",
+    "Name": "EnableRootTigger",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1772106793000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

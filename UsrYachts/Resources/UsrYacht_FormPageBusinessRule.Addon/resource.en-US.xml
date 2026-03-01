@@ -2,6 +2,7 @@
 <Resources Culture="en-US">
 	<Group Type="String">
 		<Items>
+			<Item Name="AddonConfig.Rules.4c7d01c3-4463-c6a3-a432-d667686fa6f3.Caption" Value="Show elements: Ticket Price" />
 			<Item Name="AddonConfig.Rules.c4018ce9-c69a-606c-5d18-aa5d86d7da3f.Caption" Value="Hide elements: Comment" />
 			<Item Name="Caption" Value="Yacht form page (Business rules)" />
 		</Items>
