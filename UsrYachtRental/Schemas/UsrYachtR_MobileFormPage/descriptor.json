@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "438bb37a-783a-45db-b0af-fa6698097437",
+    "Name": "UsrYachtR_MobileFormPage",
+    "ModifiedOnUtc": "\/Date(1775458915000)\/",
+    "Parent": {
+      "UId": "019c694a-1a3b-4812-b2e5-219b326061ae",
+      "Name": "MobilePageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Yachts Rental mobile form page",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.c826fe41-c4ce-2fc0-56d7-be2608464cf1.Caption" Value="MinPriceToRequireYachtComment" />
+			<Item Name="Caption" Value="Yachts Rental form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Yachts rental mini page" />
+			<Item Name="LocalizableStrings.PageTitle_caption.Value" Value="Rentals" />
+			<Item Name="LocalizableStrings.addRecord_5to29at_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

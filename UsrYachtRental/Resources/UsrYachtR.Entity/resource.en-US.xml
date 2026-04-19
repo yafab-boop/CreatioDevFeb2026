@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Yachts Rental1" />
+			<Item Name="Columns.UsrCaptain1.Caption" Value="Captain" />
+			<Item Name="Columns.UsrComment1.Caption" Value="Comment" />
+			<Item Name="Columns.UsrCrewCount1.Caption" Value="Crew count" />
+			<Item Name="Columns.UsrDriveType1.Caption" Value="Drive type" />
+			<Item Name="Columns.UsrLength1.Caption" Value="Length" />
+			<Item Name="Columns.UsrManager1.Caption" Value="Manager" />
+			<Item Name="Columns.UsrName3.Caption" Value="Name2" />
+			<Item Name="Columns.UsrPassengersCount1.Caption" Value="Passengers count" />
+			<Item Name="Columns.UsrPrice1.Caption" Value="Price per day, EUR" />
+			<Item Name="Columns.UsrStatus1.Caption" Value="Status" />
+			<Item Name="Columns.UsrTicketPrice.Caption" Value="Ticket price, EUR" />
+		</Items>
+	</Group>
+</Resources>

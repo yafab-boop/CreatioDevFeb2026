@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "18bbc2be-a225-42c6-adeb-d277f615ab19",
+    "Name": "UsrYachtR_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1776576535000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Yachts Rental form page (Business rules)",
+    "DependsOn": []
+  }
+}

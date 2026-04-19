@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f040640c-f76c-40b7-a9a1-67a31859f5da",
+    "Name": "UsrYachtR_ListPage",
+    "ModifiedOnUtc": "\/Date(1775730572000)\/",
+    "Parent": {
+      "UId": "b7b898d0-8c77-4953-c097-23fa6800da02",
+      "Name": "ListPageV3Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Yachts Rental list page",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "46f28d24-402e-42e4-9b2b-dc70e97b90c5",
+    "Name": "UsrYachtR_MobileListPage",
+    "ModifiedOnUtc": "\/Date(1775458915000)\/",
+    "Parent": {
+      "UId": "011e7dda-a763-4535-9b9a-e09eddd047be",
+      "Name": "BaseMobileListTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Yachts Rental mobile list page",
+    "DependsOn": []
+  }
+}
